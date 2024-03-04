@@ -1,0 +1,16 @@
+{
+  "name": "hey-nimit",
+  "bin": {
+    "hey-nimit": "index.js"
+  },
+  "packageManager": "yarn@4.1.0",
+  "description": "An npx application that helps people to introduce me on developers terminal",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
