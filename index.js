@@ -5,6 +5,7 @@ function logDetails() {
     const twitter = "https://twitter.com/SavantNimit";
     const linkedin = "https://www.linkedin.com/in/nimitsavant/";
     const portfolio = "https://nimitsavant.me";
+    const github = "https://github.com/nimit2801"
   
     // Create a colorful box using ANSI escape codes
     const colorfulBox = `  \x1b[38;5;51m+---------------------------------------------------------------+
@@ -13,6 +14,7 @@ function logDetails() {
     | \x1b[38;5;93mTwitter:\x1b[0m \x1b[38;5;39m${twitter}                     \x1b[38;5;51m|
     | \x1b[38;5;93mLinkedIn:\x1b[0m \x1b[38;5;39m${linkedin}                 \x1b[38;5;51m|
     | \x1b[38;5;93mPortfolio:\x1b[0m  \x1b[38;5;39m${portfolio}                      \x1b[38;5;51m|
+    | \x1b[38;5;93mGithub:\x1b[0m  \x1b[38;5;39m${github}                      \x1b[38;5;51m|
     +----------------------------------------------------------------+\x1b[0m`;
   
     // Log the colorful box in the terminal
